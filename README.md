@@ -39,14 +39,7 @@ const krishna = {
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,html,css,js,git,github,vercel,vscode&theme=dark" />
 
 </div>
 
@@ -67,6 +60,19 @@ const krishna = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kshourids/kshourids/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake contribution animation" src="https://raw.githubusercontent.com/kshourids/kshourids/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 ### 📊 GitHub Stats & Trophies
 
 <div align="center">
@@ -81,6 +87,10 @@ const krishna = {
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=kshourids&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kshourids&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38BDF8&line=2563EB&point=ffffff" />
 
 </div>
 
