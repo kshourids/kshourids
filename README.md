@@ -69,7 +69,7 @@ That mindset has already turned into **4 live applications** — from an AI-powe
 
 <div align="center">
 
-![3D contribution graph](./profile-3d-contrib/profile-night-view.svg)
+![3D animated contribution graph](./profile-3d-contrib/profile-custom-navy.svg)
 
 </div>
 

@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-custom-navy.svg",
+  "backgroundColor": "#0F172A",
+  "foregroundColor": "#E2E8F0",
+  "strongColor": "#38BDF8",
+  "weakColor": "#334155",
+  "radarColor": "#4F46E5",
+  "growingAnimation": true,
+  "contribColors": [
+    "#1E293B",
+    "#3730A3",
+    "#4F46E5",
+    "#38BDF8",
+    "#93C5FD"
+  ]
+}
