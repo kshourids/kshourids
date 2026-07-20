@@ -1,41 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:8A2BE2,100:38BDF8&height=220&section=header&text=KRISHNA%20SHOURI%20D%20S&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20SHIPPER&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:38BDF8&height=210&section=header&text=KRISHNA%20SHOURI%20D%20S&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=53&descSize=17" />
 
-<a href="https://www.linkedin.com/in/krishnashouri">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Software+Engineer+Intern+%E2%80%94+7+Months+in+the+Trenches;%F0%9F%92%BB+MCA+Candidate+%7C+Full-Stack+in+Progress;%E2%9A%A1+4%2B+Projects+Shipped+%26+Live+in+Production;%F0%9F%94%A5+Code.+Ship.+Repeat." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1200&color=4F46E5&center=true&vCenter=true&width=700&lines=Software+Engineer+Intern+%E2%80%94+7+Months+of+Real+Experience;MCA+Candidate+%E2%80%94+Building+Strong+Fundamentals;4+Projects+Designed%2C+Built+%26+Shipped+to+Production;Precision+in+Code.+Consistency+in+Growth." alt="Typing SVG" />
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white)
-![MCA Candidate](https://img.shields.io/badge/MCA-Candidate-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Experience](https://img.shields.io/badge/Internship-7%20Months-2563EB?style=for-the-badge&logo=starship&logoColor=white)
-![Projects](https://img.shields.io/badge/Live%20Projects-4-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)
+![Open to Opportunities](https://img.shields.io/badge/OPEN%20TO%20OPPORTUNITIES-4F46E5?style=for-the-badge&logoColor=white)
+![MCA Candidate](https://img.shields.io/badge/MCA-CANDIDATE-38BDF8?style=for-the-badge&logoColor=white)
+![Experience](https://img.shields.io/badge/7%20MONTHS-EXPERIENCE-0F172A?style=for-the-badge&logoColor=white)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:38BDF8&height=3&section=header" width="100%">
 
-### ⚡ About Me
+### About
 
-I'm **Krishna Shouri D S** — an aspiring **Software Engineer** currently pursuing my **MCA (Master of Computer Applications)**, with **7 months of hands-on experience as a Software Engineer Intern** already under my belt. I don't just study code, I ship it: **4 projects live in production**, from an AI-powered dietary agent to a full car-rental booking platform.
+I'm **Krishna Shouri D S**, a Software Engineer in the making — currently pursuing my **MCA (Master of Computer Applications)** while building on **7 months of hands-on experience as a Software Engineer Intern**. I take a simple approach: understand the systems I'm building, ship things that hold up in production, and get a little better with every project.
 
-I move fast, learn faster, and care about writing code that actually works in the real world — not just in theory.
+That mindset has already turned into **4 live applications** — from an AI-powered dietary agent to a full car-rental booking platform — each one designed, built, and deployed end to end.
 
-```text
-const krishna = {
-  role: "Software Engineer Intern (7 months)",
-  currentlyLearning: "MCA + Full-Stack Engineering",
-  shipped: ["Dietary-Agent", "LuxeDrive-Car-Rental", "Hindu-Purana-Katha-s", "Portfolio"],
-  mindset: "ship fast, debug faster, never stop learning",
-  status: "open to internships & full-time opportunities 🚀"
-};
-```
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+| | |
+|:---|:---|
+| 🎓 **Education** | MCA (Master of Computer Applications) — in progress |
+| 💼 **Experience** | 7 months as a Software Engineer Intern |
+| 🚀 **Shipped** | 4 production-deployed applications |
+| 🌱 **Focus** | Full-stack fundamentals & real-world engineering practice |
+| 📌 **Status** | Open to internship & full-time opportunities |
 
-### 🛠️ Tech Stack
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:38BDF8&height=3&section=header" width="100%">
+
+### Tech Stack
 
 <div align="center">
 
@@ -43,24 +42,24 @@ const krishna = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:38BDF8&height=3&section=header" width="100%">
 
-### 🚀 Featured Projects — Shipped & Live
+### Featured Work
 
 <div align="center">
 
-| 🔥 Project | What it does | Stack | Live |
-|---|---|---|---|
-| [**Dietary-Agent**](https://github.com/kshourids/Dietary-Agent) | AI-powered dietary/nutrition assistant | `Python` `JavaScript` | [🌐 Launch](https://dietary-agent.vercel.app) |
-| [**LuxeDrive-Car-Rental**](https://github.com/kshourids/LuxeDrive-Car-Rental) | Full car-rental booking platform | `JavaScript` `CSS` | [🌐 Launch](https://luxe-drive-car-rental.vercel.app) |
-| [**Hindu-Purana-Katha-s**](https://github.com/kshourids/Hindu-Purana-Katha-s) | Storytelling web app for Hindu Puranas | `JavaScript` `CSS` | [🌐 Launch](https://hindu-purana-katha-s.vercel.app) |
-| [**Portfolio**](https://github.com/kshourids/Portfolio) | My personal developer showcase | `HTML` `CSS` `JS` | [🌐 Launch](https://github.com/kshourids/Portfolio) |
+| Project | What it does | Stack | Live |
+|:---|:---|:---|:---|
+| [**Dietary-Agent**](https://github.com/kshourids/Dietary-Agent) | AI-powered dietary & nutrition assistant | `Python` `JavaScript` | [Visit ↗](https://dietary-agent.vercel.app) |
+| [**LuxeDrive-Car-Rental**](https://github.com/kshourids/LuxeDrive-Car-Rental) | Full car-rental booking platform | `JavaScript` `CSS` | [Visit ↗](https://luxe-drive-car-rental.vercel.app) |
+| [**Hindu-Purana-Katha-s**](https://github.com/kshourids/Hindu-Purana-Katha-s) | Storytelling web app for Hindu Puranas | `JavaScript` `CSS` | [Visit ↗](https://hindu-purana-katha-s.vercel.app) |
+| [**Portfolio**](https://github.com/kshourids/Portfolio) | My personal developer showcase | `HTML` `CSS` `JS` | [Visit ↗](https://github.com/kshourids/Portfolio) |
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:38BDF8&height=3&section=header" width="100%">
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <div align="center">
 
@@ -71,42 +70,35 @@ const krishna = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:38BDF8&height=3&section=header" width="100%">
 
-### 📊 GitHub Stats & Trophies
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kshourids&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=2563EB&icon_color=38BDF8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshourids&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563EB" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kshourids&theme=tokyonight&hide_border=true&background=0d1117&fire=2563EB&ring=38BDF8" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kshourids&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kshourids&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38BDF8&line=2563EB&point=ffffff" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-### 🔗 Let's Connect & Build Something
+### Activity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnashouri)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20my%20work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/kshourids/Portfolio)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kshourids&background=0D1117&ring=4F46E5&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true" />
 
-### 💡 *"Still learning. Already shipping. Watch this space."*
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kshourids&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:8A2BE2,100:2563EB&height=120&section=footer" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kshourids&bg_color=0D1117&color=38BDF8&line=4F46E5&point=FFFFFF&hide_border=true" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:38BDF8&height=3&section=header" width="100%">
+
+### Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnashouri)
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/kshourids/Portfolio)
+
+<br/><br/>
+
+*Building thoughtfully. Learning continuously.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=kshourids&color=4F46E5&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:4F46E5,100:0F172A&height=100&section=footer" width="100%">
