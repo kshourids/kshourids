@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:8A2BE2,100:00D4FF&height=220&section=header&text=KRISHNA%20SHOURI%20D%20S&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20SHIPPER&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:8A2BE2,100:38BDF8&height=220&section=header&text=KRISHNA%20SHOURI%20D%20S&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20SHIPPER&descAlignY=55&descSize=20" />
 
 <a href="https://www.linkedin.com/in/krishnashouri">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&pause=900&color=FF0080&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Software+Engineer+Intern+%E2%80%94+7+Months+in+the+Trenches;%F0%9F%92%BB+MCA+Candidate+%7C+Full-Stack+in+Progress;%E2%9A%A1+4%2B+Projects+Shipped+%26+Live+in+Production;%F0%9F%94%A5+Code.+Ship.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Software+Engineer+Intern+%E2%80%94+7+Months+in+the+Trenches;%F0%9F%92%BB+MCA+Candidate+%7C+Full-Stack+in+Progress;%E2%9A%A1+4%2B+Projects+Shipped+%26+Live+in+Production;%F0%9F%94%A5+Code.+Ship.+Repeat." alt="Typing SVG" />
 </a>
 
 <br/>
 
 ![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white)
 ![MCA Candidate](https://img.shields.io/badge/MCA-Candidate-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Experience](https://img.shields.io/badge/Internship-7%20Months-FF0080?style=for-the-badge&logo=starship&logoColor=white)
-![Projects](https://img.shields.io/badge/Live%20Projects-4-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)
+![Experience](https://img.shields.io/badge/Internship-7%20Months-2563EB?style=for-the-badge&logo=starship&logoColor=white)
+![Projects](https://img.shields.io/badge/Live%20Projects-4-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -71,16 +71,16 @@ const krishna = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kshourids&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=FF0080&icon_color=00D4FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshourids&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0080" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kshourids&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=2563EB&icon_color=38BDF8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshourids&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563EB" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kshourids&theme=radical&hide_border=true&background=0d1117&fire=FF0080&ring=00D4FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kshourids&theme=tokyonight&hide_border=true&background=0d1117&fire=2563EB&ring=38BDF8" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kshourids&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=kshourids&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -91,12 +91,12 @@ const krishna = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnashouri)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20my%20work-FF0080?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/kshourids/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20my%20work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/kshourids/Portfolio)
 
 ### 💡 *"Still learning. Already shipping. Watch this space."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=kshourids&color=FF0080&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=kshourids&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:8A2BE2,100:FF0080&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:8A2BE2,100:2563EB&height=120&section=footer" />
 
 </div>
