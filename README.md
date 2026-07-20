@@ -1,16 +1,22 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:38BDF8&height=6&section=header" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:38BDF8&height=210&section=header&text=KRISHNA%20SHOURI%20D%20S&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=53&descSize=17" />
+<table width="100%">
+<tr>
+<td width="190" align="center" valign="middle">
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/249563045&mask=circle&w=220&h=220" width="170" alt="Krishna Shouri D S" />
+</td>
+<td valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1200&color=4F46E5&center=true&vCenter=true&width=700&lines=Software+Engineer+Intern+%E2%80%94+7+Months+of+Real+Experience;MCA+Candidate+%E2%80%94+Building+Strong+Fundamentals;4+Projects+Designed%2C+Built+%26+Shipped+to+Production;Precision+in+Code.+Consistency+in+Growth." alt="Typing SVG" />
+# Krishna Shouri D S
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=4F46E5&vCenter=true&width=560&lines=Software+Engineer+Intern+%E2%80%94+7+Months+Experience;MCA+Candidate+%E2%80%94+Full-Stack+in+Progress;4+Projects+Designed%2C+Built+%26+Shipped" alt="Typing SVG" />
 
 ![Open to Opportunities](https://img.shields.io/badge/OPEN%20TO%20OPPORTUNITIES-4F46E5?style=for-the-badge&logoColor=white)
 ![MCA Candidate](https://img.shields.io/badge/MCA-CANDIDATE-38BDF8?style=for-the-badge&logoColor=white)
-![Experience](https://img.shields.io/badge/7%20MONTHS-EXPERIENCE-0F172A?style=for-the-badge&logoColor=white)
 
-</div>
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:38BDF8&height=3&section=header" width="100%">
 
@@ -59,6 +65,16 @@ That mindset has already turned into **4 live applications** — from an AI-powe
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:38BDF8&height=3&section=header" width="100%">
 
+### 3D Contribution Graph
+
+<div align="center">
+
+![3D contribution graph](./profile-3d-contrib/profile-night-view.svg)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:38BDF8&height=3&section=header" width="100%">
+
 ### Contribution Snake
 
 <div align="center">
@@ -75,6 +91,15 @@ That mindset has already turned into **4 live applications** — from an AI-powe
 ### Activity
 
 <div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kshourids&theme=github_dark" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kshourids&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kshourids&theme=github_dark" />
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshourids&background=0D1117&ring=4F46E5&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true" />
 
