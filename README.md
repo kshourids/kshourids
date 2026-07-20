@@ -2,12 +2,13 @@
 
 <table width="100%">
 <tr>
-<td width="190" align="center" valign="middle">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/249563045&mask=circle&w=220&h=220" width="170" alt="Krishna Shouri D S" />
+<td width="230" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/kshourids/kshourids/main/assets/avatar-ring.gif" width="200" alt="Krishna Shouri D S" />
 </td>
 <td valign="middle">
 
 # Krishna Shouri D S
+### Software Engineer · Full-Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=4F46E5&vCenter=true&width=560&lines=Software+Engineer+Intern+%E2%80%94+7+Months+Experience;MCA+Candidate+%E2%80%94+Full-Stack+in+Progress;4+Projects+Designed%2C+Built+%26+Shipped" alt="Typing SVG" />
 
@@ -17,6 +18,8 @@
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:4F46E5,100:0F172A&height=6&section=header" width="100%">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:38BDF8&height=3&section=header" width="100%">
 

@@ -19,6 +19,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: profile-3d-settings.json
+      - name: Make animation loop continuously
+        run: |
+          sed -i 's/repeatCount="1"/repeatCount="indefinite"/g' profile-3d-contrib/profile-custom-navy.svg
       - name: Commit & Push
         run: |
           git config user.name github-actions
