@@ -7,7 +7,7 @@
 </td>
 <td valign="middle">
 
-<img src="https://raw.githubusercontent.com/kshourids/kshourids/main/assets/name-banner.png?v=4" width="100%" alt="Krishna Shouri D S — Software Engineer · Full-Stack Developer" />
+<img src="https://raw.githubusercontent.com/kshourids/kshourids/main/assets/name-banner.png?v=5" width="100%" alt="Krishna Shouri D S — Software Engineer · Full-Stack Developer" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=4F46E5&vCenter=true&width=560&lines=Software+Engineer+Intern+%E2%80%94+7+Months+Experience;MCA+Candidate+%E2%80%94+Full-Stack+in+Progress;4+Projects+Designed%2C+Built+%26+Shipped" alt="Typing SVG" />
 
